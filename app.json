@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "icon": "images/comquas.png",
+    "version": "1.0.0",
+    "android": {
+     	"package": "com.comquas.lue"
+     }
+  }
+}
